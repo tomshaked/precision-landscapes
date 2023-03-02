@@ -4,15 +4,14 @@ This repository contains a Rhino 3D model and Grasshopper code for simulating ac
 
 # Requirements
 
-    <a href="https:/www.twitter.com" target="_blank"><i class="fab fa-twitter footer-social">  </i></a>
-    [Rhino 3D](https://www.rhino3d.com/download/)
-    Grasshopper (included in Rhino 3D)
-    [Pachyderm Acoustical Simulation Grasshopper plugin](https://www.food4rhino.com/en/app/pachyderm-acoustical-simulation)
-    [Paneling Tools Grasshopper plugin](https://www.food4rhino.com/en/app/panelingtools-rhino-and-grasshopper)
+- [Rhino 3D](https://www.rhino3d.com/download/)
+- Grasshopper (included in Rhino 3D)
+- [Pachyderm Acoustical Simulation Grasshopper plugin](https://www.food4rhino.com/en/app/pachyderm-acoustical-simulation)
+- [Paneling Tools Grasshopper plugin](https://www.food4rhino.com/en/app/panelingtools-rhino-and-grasshopper)
 
 # Usage
 
-    Open the Rhino file acoustic_model.3dm.
-    In Grasshopper, open the file acoustic_simulation.gh.
-    Set the simulation parameters in the Grasshopper component.
-    Run the simulation in Grasshopper.
+1. Open the Rhino file acoustic_model.3dm.
+2. In Grasshopper, open the file acoustic_simulation.gh.
+3. Set the simulation parameters in the Grasshopper component.
+4. Run the simulation in Grasshopper.
