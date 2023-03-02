@@ -3,9 +3,9 @@ A project generating, comparing, and evaluating various forms and their acoustic
 
 # Introduction
 
-This repository contains materials and files to support the course "Designing Acoustic Grounds: Exploring the Use of Digital Tools for Acoustic Grounds Design" taught by Dr. Karen Lee Bar-Sinai, Dr. Tom Shaked, and Ph.D. Candidate Elif Simge Fettahoglu. The course is interdisciplinary and open to students from TUM.
-Course Overview
+This repository contains materials and files to support the course "Designing Acoustic Grounds".
 
+# Course Overview
 The course focuses on exploring the use of digital tools for designing acoustic grounds to mitigate noise pollution. The course is structured into three thematic sections, including analyzing noise and understanding noise landscapes, exploring/testing different conditions and designs, and assessment and comparative analysis.
 
 The course will be conducted in a hybrid of online/in-person meetings for the first few days, followed by physical meetings in Munich. The course work will be undertaken in groups, and the final work will be presented in a presentation and booklet format.
