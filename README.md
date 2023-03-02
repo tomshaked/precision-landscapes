@@ -25,6 +25,8 @@ Teaching Team
 The workshop is taught by Dr. Karen Lee Bar-Sinai, Dr. Tom Shaked, and Ph.D. Candidate Elif Simge Fettahoglu, with the involvement of the Munich Airport and experts on noise landscapes, including Prof. Benedikt Boucsein, Chair of Urban Design, and Dr. Jochen Krimm (Frankfurt University of Applied Sciences), and with the teaching assistants Ekaterina Pestriakova and Liubov Kniazeva.
 
 # Location
-UD seminar room and [Zoom](https://tum-conf.zoom.us/j/61215497972?pwd=NHZRYzdRWnEzUmRlZmgrUmFpM3RJUT09)
+UD seminar room and [Zoom](https://tum-conf.zoom.us/j/61215497972?pwd=NHZRYzdRWnEzUmRlZmgrUmFpM3RJUT09) 
+
 Meeting ID: 612 1549 7972
+
 Passcode: 2023
