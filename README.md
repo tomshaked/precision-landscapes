@@ -1,6 +1,3 @@
-# Precision Landscapes
-A project generating, comparing, and evaluating various forms and their acoustic performance and effectiveness in noise mitigation in urban design
-
 # Introduction
 
 This repository contains materials and files to support the course "Designing Acoustic Grounds".
