@@ -10,13 +10,12 @@ Repository Contents
 
 This repository contains the following materials and files to support the course:
 
-    Lecture slides
-    Course schedule
-    Data sets for noise monitoring stations
-    Sample design files for simulation environment
-    Sample design files for exploring different materials and designs
-    Course project requirements and guidelines
-    Course survey
+- Lecture slides
+- Course schedule
+- Data sets for noise monitoring stations
+- Sample files for designs and simulation environment
+- Course project requirements and guidelines
+- Course survey
 
 # Course Requirements
 
