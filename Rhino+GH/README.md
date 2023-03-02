@@ -4,10 +4,10 @@ This repository contains a Rhino 3D model and Grasshopper code for simulating ac
 
 # Requirements
 
-    Rhino 3D (version 6 or later)
+    [Rhino 3D (version 6 or later)](https://www.rhino3d.com/download/)
     Grasshopper (included in Rhino 3D)
-    Pachyderm Acoustical Simulation Grasshopper plugin (https://www.food4rhino.com/en/app/pachyderm-acoustical-simulation)
-    Paneling Tools Grasshopper plugin (https://www.food4rhino.com/en/app/panelingtools-rhino-and-grasshopper)
+    [Pachyderm Acoustical Simulation Grasshopper plugin](https://www.food4rhino.com/en/app/pachyderm-acoustical-simulation)
+    [Paneling Tools Grasshopper plugin](https://www.food4rhino.com/en/app/panelingtools-rhino-and-grasshopper)
 
 # Usage
 
