@@ -1,3 +1,5 @@
+![My Remote Image](https://www.munich-airport.com/_b/0000000000000001237076bb5890a08b/blumenwiese-fz1.jpg)
+
 # Introduction
 
 This repository contains materials and files to support the course "Acoustic Grounds Winter Workshop".
