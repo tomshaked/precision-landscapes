@@ -4,6 +4,7 @@ This repository contains a Rhino 3D model and Grasshopper code for simulating ac
 
 # Requirements
 
+    <a href="https:/www.twitter.com" target="_blank"><i class="fab fa-twitter footer-social">  </i></a>
     [Rhino 3D](https://www.rhino3d.com/download/)
     Grasshopper (included in Rhino 3D)
     [Pachyderm Acoustical Simulation Grasshopper plugin](https://www.food4rhino.com/en/app/pachyderm-acoustical-simulation)
