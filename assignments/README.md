@@ -1,3 +1,4 @@
+# Assignments
 - The assignments folder contains several subfolders, each representing a different assignment.
 - Each assignment subfolder includes a Rhino file, a Grasshopper code file, and a short explanation document in PDF or Markdown format.
 - The Rhino file contains the 3D model of the landform for that particular assignment.
