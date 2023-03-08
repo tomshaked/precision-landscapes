@@ -1,4 +1,8 @@
-# Guidelines for noise measurement:
+# Importan  links for noise measurement:
+[Link to the drive file with measurement insctructions](https://docs.google.com/document/d/1bDxT__3WSI27fe47P8Vk2Ren5RcleSdExLPQjIOlpcY/edit?usp=sharing)
+[Software and manual for the recording devices](https://cd50.net/25/)
+
+# General guidelines:
 - Choose an appropriate location for noise measurement. The location should be representative of the area where noise levels are of concern.
 - Use a calibrated sound level meter to measure the noise levels. Make sure the meter is calibrated according to the manufacturer's instructions.
 - Take measurements at different times of day, as noise levels can vary depending on the time of day and the day of the week.
