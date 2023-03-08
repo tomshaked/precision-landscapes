@@ -1,6 +1,6 @@
 # Importan  links for noise measurement:
-[Link to the drive file with measurement insctructions](https://docs.google.com/document/d/1bDxT__3WSI27fe47P8Vk2Ren5RcleSdExLPQjIOlpcY/edit?usp=sharing)
-[Software and manual for the recording devices](https://cd50.net/25/)
+- [Link to the drive file with measurement insctructions](https://docs.google.com/document/d/1bDxT__3WSI27fe47P8Vk2Ren5RcleSdExLPQjIOlpcY/edit?usp=sharing)
+- [Software and manual for the recording devices](https://cd50.net/25/)
 
 # General guidelines:
 - Choose an appropriate location for noise measurement. The location should be representative of the area where noise levels are of concern.
