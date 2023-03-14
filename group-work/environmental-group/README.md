@@ -8,6 +8,6 @@ The purpose of this sub-folder is to facilitate communication and collaboration 
 The sub-folder will contain all project-related files, including research articles, presentation slides, design drawings, and assessment reports. Please ensure that all files are saved in appropriate folders and that they are up-to-date.
 
 ## Organization
-To keep things organized, please use clear and descriptive file names when uploading documents, and organize files into folders as needed. Please also ensure that all documents are relevant to the course and the group project.
+To keep things organized, please use clear and descriptive file names when uploading documents, and organize files into folders as needed.
 
 Thank you for your cooperation in maintaining this sub-folder as a valuable resource for our course!
