@@ -1,14 +1,15 @@
-# Importan  links for noise measurement:
-- [Link to the drive file with measurement insctructions](https://docs.google.com/document/d/1bDxT__3WSI27fe47P8Vk2Ren5RcleSdExLPQjIOlpcY/edit?usp=sharing)
-- [Software and manual for the recording devices](https://cd50.net/25/)
-- [Link to the drive with the measurements](https://docs.google.com/spreadsheets/d/17pkJVZ8zgD4UjKGGrIErEnwYBFSMNGBq4FbrRMOTJUM/edit?usp=sharing)
+Welcome to the Environmental Group sub-folder. This sub-folder contains resources, documents, and information related to the course, and specifically to the group project work.
 
-# General guidelines:
-- Choose an appropriate location for noise measurement. The location should be representative of the area where noise levels are of concern.
-- Use a calibrated sound level meter to measure the noise levels. Make sure the meter is calibrated according to the manufacturer's instructions.
-- Record the measurement data and any other relevant information, such as the time of day, the weather conditions, and the type of noise source.
-- Use the measured data to analyze the noise levels and identify any patterns or trends.
-- Compare the measured noise levels to the relevant noise standards or guidelines to determine if the levels are within acceptable limits.
-- Use the analysis to identify potential noise mitigation strategies, such as noise barriers or changes in the design of the area.
-<!-- Take measurements at different times of day, as noise levels can vary depending on the time of day and the day of the week.
-- Take measurements at different locations within the area of concern, as noise levels can vary depending on the proximity to the source of the noise.-->
+## Here are some guidelines for using this sub-folder:
+
+    Purpose: The purpose of this sub-folder is to facilitate communication and collaboration among group members in the course. Please use this space to share updates, information, and resources related to the course project.
+
+    Organization: To keep things organized, please use clear and descriptive file names when uploading documents, and organize files into folders as needed. Please also ensure that all documents are relevant to the course and the group project.
+
+    Confidentiality: Please be mindful of confidentiality when sharing documents. If a document contains sensitive information, please label it as such and only share it with those who need to see it.
+
+    Respect: We value respectful and constructive dialogue. Please refrain from personal attacks or inflammatory language.
+
+    Repository Contents: The sub-folder will contain all project-related files, including research articles, presentation slides, design drawings, and assessment reports. Please ensure that all files are saved in appropriate folders and that they are up-to-date.
+
+Thank you for your cooperation in maintaining this sub-folder as a valuable resource for our course!
